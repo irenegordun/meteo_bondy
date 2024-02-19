@@ -1,16 +1,12 @@
-# bondy
+### bondy meteo
 
-A new Flutter project.
+# SplashScreen
+![image](https://github.com/irenegordun/meteo_bondy/assets/91835403/81bbb433-32e0-4846-8041-cd365a9eacb9)
 
-## Getting Started
+# Home view
+*Steps to Perform Weather Forecast Search:*
+1. *Select a location on the map.*
+2. *Choose the forecast option you wish to visualize.*
+   
+![image](https://github.com/irenegordun/meteo_bondy/assets/91835403/b954b3c6-95de-4d6d-87fa-bc9cc5277e9b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
